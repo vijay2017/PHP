@@ -18,6 +18,7 @@ if(!isset($_COOKIE[$cookie_name])) {
 ?>
 
 <p><strong>Note:</strong> You might have to reload the page to see the value of the cookie.</p>
+     <p><strong>Note:</strong> It's test page php from vijay.</p>
 
 </body>
 </html>
